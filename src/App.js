@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import { Component } from "react";
 import style from "./App.module.css";
 import Section from "./components/Section";
 import Statistics from "./components/Statistics";

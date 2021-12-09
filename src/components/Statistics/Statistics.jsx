@@ -1,4 +1,3 @@
-import React from "react";
 import ProtType from "prop-types";
 import style from "./Statistics.module.css";
 
